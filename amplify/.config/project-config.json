@@ -1,0 +1,18 @@
+{
+  "whyContinueWithGen1": "I find the Gen 1 CLI easier to use",
+  "projectName": "dealerschoice",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react-native",
+    "config": {
+      "SourceDir": "./",
+      "DistributionDir": "dist",
+      "BuildCommand": "npx expo export --platform web",
+      "StartCommand": "npx expo start --web"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}

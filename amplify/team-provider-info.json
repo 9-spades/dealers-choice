@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dealerschoice-dev-50ced-authRole",
+      "UnauthRoleArn": "arn:aws:iam::106870841944:role/amplify-dealerschoice-dev-50ced-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::106870841944:role/amplify-dealerschoice-dev-50ced-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-dealerschoice-dev-50ced-deployment",
+      "UnauthRoleName": "amplify-dealerschoice-dev-50ced-unauthRole",
+      "StackName": "amplify-dealerschoice-dev-50ced",
+      "StackId": "arn:aws:cloudformation:us-west-1:106870841944:stack/amplify-dealerschoice-dev-50ced/59405ab0-9411-11f0-ae0f-06333de2a965",
+      "AmplifyAppId": "dntd9f28ok16k"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
